@@ -29,7 +29,7 @@ export function Card(props){
         <>
             <Link to={link} style={{ display: 'contents', textDecoration: 'none', color: 'inherit' }}>
                 <div className="card card-general m-5 border-info text-center">
-                    <img src="../../public/dentista.jpg" className="card-img-top" alt={alt}></img>
+                    <img src="../assets/dentista.jpg" className="card-img-top" alt={alt}></img>
                     <div className="card-body">
                         <h5 className="card-title mt-4">{name}</h5>
                         <p className="card-text mt-4">{username}</p>
