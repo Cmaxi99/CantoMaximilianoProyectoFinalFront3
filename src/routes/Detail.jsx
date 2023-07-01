@@ -29,7 +29,7 @@ export function Detail(){
             <div className="card card-detail">
                 <div className="row g-0">
                     <div className="col-md-4">
-                        <img src="../public/dentista-h.jpg" className="card-img-top" alt={alt}></img>
+                        <img src="../public/dentista.jpg" className="card-img-top" alt={alt}></img>
                     </div>
                     <div className="col-md-8">
                         <div className="card-body">
